@@ -1,6 +1,6 @@
 # Screeps
 
-### The code above is for a game called Screeps. In this real time strategy game, you can essentially only use scripts to interact with the game itself, which the goal is to have the game run itself with fully autonomy. For more infor about the structure of the code visit Screeps.com 
+### The code above is for a game called Screeps. In this real time strategy game, you can essentially only use scripts to interact with the game itself, which the goal is to have the game run itself with fully autonomy. For a more indepth summary of the game structure visit Screeps.com, otherwise read below for a short summary.
 
 #### Rough summary of the code:
 <ul>
